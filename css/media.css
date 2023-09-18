@@ -35,7 +35,6 @@
 @media (max-width:599px) {
     .container {
         width: 320px;
-        padding: 0px 25px;
     }
     .section {
         padding: 60px 0 40px;
